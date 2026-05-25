@@ -1,24 +1,7 @@
-# robots.txt — AUN Marketing Solutions
-# https://aunmarketingsolution3.netlify.app
-
 User-agent: *
 Allow: /
 
-# Allow all major search engine bots explicitly
 User-agent: Googlebot
 Allow: /
 
-User-agent: Bingbot
-Allow: /
-
-User-agent: Slurp
-Allow: /
-
-User-agent: DuckDuckBot
-Allow: /
-
-User-agent: Baiduspider
-Allow: /
-
-# Sitemap location
-Sitemap: https://aunmarketingsolution3.netlify.app/sitemap.xml
+Sitemap: https://aunmarketingsolutions9.netlify.app/sitemap.xml
